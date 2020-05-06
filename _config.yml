@@ -28,6 +28,10 @@ disqus_url: "http://fqj102.github.io"
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # highlight
 # highlighter: pygments
 # highlighter: rouge
