@@ -7,7 +7,7 @@ permalink: /projects/
 
 * content
 {:toc}
-
+<!--
 # All my projects
 Following are projects started by me. 
 
@@ -72,3 +72,4 @@ Kids Movie Creator is a very old shareware released in 2006, allowing kids to cr
 * Started: 1989-2005 (very old ones)
 * [Xizhi's old website before 2005](/oldsite2005/projects.htm). 
 
+-->
