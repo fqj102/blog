@@ -31,7 +31,7 @@ author: HyG
 
 点击超级会员专享，折上95折 banner，卡片向上滑入
 
-<video src="https://www.youtube.com/watch?v=o9hyTSlwZ7Y&list=PLcqDmjxt30Rsb8Zpgbemt-NaCOjr2WIUj&index=21" autoplay controls preload loop muted width="300px"></video>
+<video src="https://www.youtube.com/embed/ZcX8wnEcLtc" autoplay controls preload loop muted width="300px"></video>
 
 这里直接使用 `transition` 控制过渡。发生样式变化的有 3 个地方：
 
